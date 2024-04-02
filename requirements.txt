@@ -1,0 +1,5 @@
+mathutils
+numpy
+matplotlib
+pytest
+coverage
