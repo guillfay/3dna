@@ -2,6 +2,9 @@
 
 ![CentraleSupelec Logo](https://www.centralesupelec.fr/sites/all/themes/cs_theme/medias/common/images/intro/logo_nouveau.jpg)
 
+- Le rapport du projet est disponible :point_right: [ici](Rapport.pdf)
+- Le support de la soutenance est disponible :pôint_right: [ici](Diapo_soutenance.pdf)
+
 ## Initialisation
 
 - Créer un environnement virtuel Python
